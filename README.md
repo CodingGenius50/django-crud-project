@@ -8,7 +8,7 @@ This is a simple Django CRUD (Create, Read, Update, Delete) project developed by
 - Responsive HTML/CSS templates
 - SQLite3 database
 - Django admin panel
-- h
+
 
 ## Screenshots
 
