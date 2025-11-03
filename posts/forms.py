@@ -1,5 +1,5 @@
 from django import forms
-from .models import Post, Comment  # ✔️ ঠিক
+from .models import Post, Comment  # এটা ঠিকভাবে relative import
 
 class PostForm(forms.ModelForm):
     class Meta:
